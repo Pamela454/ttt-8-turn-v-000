@@ -5,4 +5,4 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 puts "Welcome Tic Tac Toe"
 
 display_board(board)
-turn(board)
+9.times.turn(board)
